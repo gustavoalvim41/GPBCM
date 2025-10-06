@@ -8,7 +8,7 @@ Screenshots of Content Manager:
 
 ## Features
 - **Custom Launcher**: start the game your way, with everything ready to play.  
-- **Mod Manager**: add and organize mods quickly, no hassle.  
+- **Mod Manager**: drag and drop mods to install.
 - **Quick Launcher**: jump straight into the track with your chosen bike and setup.
   
 ## More Info
