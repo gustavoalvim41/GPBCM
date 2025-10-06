@@ -1,4 +1,4 @@
-# GP Bikes (CM)
+# GP Bikes Content Manager
 A custom launcher and content manager for GP Bikes, designed for the community.
 
 ## Overview
