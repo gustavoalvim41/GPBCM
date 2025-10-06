@@ -12,6 +12,7 @@ Screenshots of Content Manager:
 - **Quick Launcher:** Get straight on the track with your bike and setup.
 
 ## Roadmap
+The evolution of the project depends on the support of the community.
 - v1 → Initial version.
 - v2 → `Will be developed once the project reaches 20 Patreon supporters.`
   - Input 1, 2 and 3 configuration.
@@ -22,6 +23,8 @@ Screenshots of Content Manager:
 - v3 → `Will be developed once the project reaches 50 Patreon supporters.`
   - Showroom 3D.
   - ??????
+    
+Future versions will be voted on by Patreon supporters.
 
 ## Support the Project
 With your help, I can dedicate more time to this project.
