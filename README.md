@@ -15,7 +15,7 @@ Screenshots of Content Manager:
 The evolution of the project depends on the support of the community.
 - v1 → Initial version.
 - v2 → `Will be developed once the project reaches 20 Patreon supporters.`
-  - Input 1, 2 and 3 configuration.
+  - Input 1, 2 and 3 settings.
   - Graphics settings.
   - Misc settings.
   - Simulation settings.
