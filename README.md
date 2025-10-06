@@ -7,9 +7,9 @@ Screenshots of Content Manager:
 <img width="1175" height="693" alt="image" src="https://github.com/user-attachments/assets/63534d6b-2808-4ace-b4db-3a600f7343f7" />
 
 ## Initial Version (v1)
-- **Custom Launcher:** Start the game your way, with everything ready to go.
+- **Custom Launcher:** Start the game your way.
 - **Mod Manager:** Install mods with a simple drag and drop.
-- **Quick Launcher:** Get straight on the track with your bike and setup.
+- **Quick Launcher:** Get straight on the track with your bike.
 
 ## Roadmap
 The evolution of the project depends on the support of the community.
