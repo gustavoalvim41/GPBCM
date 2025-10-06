@@ -16,9 +16,9 @@ Screenshots of Content Manager:
 - v2 → `Will be developed once the project reaches 20 Patreon supporters.`
   - Graphical settings.
   - Input configuration.
+  - Preview thumbnails.
 - v3 → `Will be developed once the project reaches 50 Patreon supporters.`
   - Showroom 3D.
-  - Preview thumbnails.
 
 ## Support the Project
 With your help, I can dedicate more time to this project.
