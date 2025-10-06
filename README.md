@@ -14,11 +14,14 @@ Screenshots of Content Manager:
 ## Roadmap
 - v1 → Initial version.
 - v2 → `Will be developed once the project reaches 20 Patreon supporters.`
-  - Graphical settings.
-  - Input configuration.
+  - Input 1, 2 and 3 configuration.
+  - Graphics settings.
+  - Misc settings.
+  - Simulation settings.
   - Preview thumbnails.
 - v3 → `Will be developed once the project reaches 50 Patreon supporters.`
   - Showroom 3D.
+  - ??????
 
 ## Support the Project
 With your help, I can dedicate more time to this project.
