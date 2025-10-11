@@ -8,6 +8,3 @@ Screenshots of Content Manager:
 
 ## More Info
 If you have any questions, feel free to open an issue or contact me through GitHub.
-
-👉 Support on Patreon
-
