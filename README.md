@@ -1,5 +1,5 @@
 # GP Bikes Content Manager
-A custom launcher and content manager for GP Bikes, developed as an indie project for the community.
+A custom launcher and content manager for GP Bikes.
 
 ## Overview
 Screenshots of Content Manager:
