@@ -4,7 +4,7 @@ A custom launcher and content manager for GP Bikes.
 ## Overview
 Screenshots of Content Manager:
 
-<img width="1173" height="696" alt="image" src="https://github.com/user-attachments/assets/99169350-956f-4689-9445-06a7e00bb590" />
+<img width="1177" height="697" alt="image" src="https://github.com/user-attachments/assets/033d4b47-145a-46d5-9095-bd69caf8fe90" />
 
 ## Support the Project
 With your help, I can dedicate more time to this project.
