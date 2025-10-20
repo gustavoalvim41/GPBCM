@@ -1,2 +1,2 @@
 # GPBCM
-A custom launcher and content manager for GP Bikes.
+Content Manager for GP Bikes.
